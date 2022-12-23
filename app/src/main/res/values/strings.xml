@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyInternalFileForApp</string>
+    <string name="choose_attachment">Choose attachment to upload</string>
+    <string name="click_to_choose">Click to choose</string>
+    <string name="internal_storage">internal_storage</string>
+</resources>
